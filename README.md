@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository consists of visuals made in the Domestica course [Creative Coding: Making Visuals with JavaScript](https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript) using [canvas-sketch](https://github.com/mattdesl/canvas-sketch/tree/master).
+This repository consists of some of the visuals made in the Domestica course [Creative Coding: Making Visuals with JavaScript](https://www.domestika.org/en/courses/2729-creative-coding-making-visuals-with-javascript) using [canvas-sketch](https://github.com/mattdesl/canvas-sketch/tree/master).
 
 ### Blobfish - Pixel manipulation
 
@@ -31,5 +31,4 @@ The original picture: [Wikimedia commons](https://commons.wikimedia.org/wiki/Fil
 
 ## How to run the project?
 - clone the project
-- navigate to a sketch directory
 - run with `canvas-sketch *filename* --open`
