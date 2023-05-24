@@ -6,7 +6,7 @@ This repository consists of visuals made in the Domestica course [Creative Codin
 
 ### Blobfish - Pixel manipulation
 
-<img src="/visuals/blobfish.png"/>
+<img src="/visuals/blobfish.png" width=60%/>
 
 This is one of the course exercises where pixel information is read from a picture and rendered as a new picture. Part of the values are randomly generated which means that refreshing the browser will render a different image each time. There is a Tweakpane visible in the browser where you can adjust some of the parameters used to render the picture.
 
@@ -14,7 +14,7 @@ The original picture: [Wikimedia commons](https://commons.wikimedia.org/wiki/Fil
 
 ### Turtle - Final project
 
-<img src="/visuals/turtle.png"/>
+<img src="/visuals/turtle.png" width=60%/>
 
 My final project is an animation where the techniques learned in the course are applied. The wavy background is implemented with [Simplex Noise](https://www.npmjs.com/package/simplex-noise).
 
